@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "MarketSphere multi-vendor marketplace: REST API (Express + MongoDB)",
+  "description": "MarketSphere Multi-Vendor Marketplace Enterprise REST API",
   "engines": {
     "node": ">=20.19.0"
   },
